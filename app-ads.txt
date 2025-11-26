@@ -975,3 +975,6 @@ zetaglobal.net,939,RESELLER
 zetaglobal.net,998,RESELLER
 zmaticoo.com,5135063,RESELLER
 yandex.com,302446435,DIRECT
+bildapp.net, 164391510, RESELLER
+rubiconproject.com, 27945, RESELLER, 0bfd66d529a55807
+sharethrough.com, zMvLLpo1, RESELLER, d53b998a7bd4ecd2
